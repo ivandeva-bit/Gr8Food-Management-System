@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Gr8Food_Management_System
 {
-    public partial class Customer : Form
+    public partial class E_Wallet_Form : Form
     {
-        public Customer()
+        public E_Wallet_Form()
         {
             InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

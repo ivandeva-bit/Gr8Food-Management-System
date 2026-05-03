@@ -16,7 +16,7 @@ namespace Gr8Food_Management_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new login());
+            Application.Run(new Manager_Profile_Management_Form());
         }
     }
 }
